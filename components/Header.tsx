@@ -18,7 +18,7 @@ const Header: React.FC<HeaderProps> = ({ currentUserRole, setCurrentUserRole }) 
                 <IconSupplyChain className="w-6 h-6 text-white" />
             </div>
             <h1 className="text-xl sm:text-2xl font-bold text-slate-800">
-              Supply Chain Proto
+              Supply Chain
             </h1>
           </div>
           <div className="flex items-center space-x-2 bg-slate-100 p-1 rounded-lg">

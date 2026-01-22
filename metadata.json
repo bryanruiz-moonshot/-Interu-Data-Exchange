@@ -1,0 +1,5 @@
+{
+  "name": "[Interu] Data Exchange",
+  "description": "A web application that simulates the data exchange and error communication loop between a Supplier (Sender) and a Buyer (Receiver) in a supply chain process.",
+  "requestFramePermissions": []
+}
